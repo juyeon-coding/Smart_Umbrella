@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330946825315",
+    "project_id": "iotsui",
+    "storage_bucket": "iotsui.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330946825315:android:ad17c3ddf82d34982e7c56",
+        "android_client_info": {
+          "package_name": "com.cookandroid.smart_umbrella"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBunnyGjnZo4ePKmd8ryjFJpKsvZ9NKBtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
